@@ -1,0 +1,16 @@
+{
+  "characters": [
+    {
+      "comment": "Comment 1",
+      "id": 1
+    },
+    {
+      "comment": "Comment 21",
+      "id": 2
+    },
+    {
+      "comment": "Comment 3",
+      "id": 3
+    }
+  ]
+}
